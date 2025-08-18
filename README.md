@@ -30,6 +30,7 @@
 
 ## 📫 Contacts
 - Email: **daniilsav2000@mail.ru**
+- Telegram: **https://t.me/qqqqqqqq99999999**
 <!--
 **aaaaaaaaaaa11111111111/aaaaaaaaaaa11111111111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
