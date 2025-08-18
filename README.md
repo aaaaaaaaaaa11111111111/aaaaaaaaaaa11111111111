@@ -24,7 +24,7 @@
 ## 📂 Projects
 - 🔗 [Сервис обмена фотографиями (JS + API)](https://github.com/aaaaaaaaaaa11111111111/mesto-project-ff) • [Demo](https://aaaaaaaaaaa11111111111.github.io/mesto-project-ff/)  
 - 🔗 [Адаптивный сайт с тёмной/светлой темой](https://github.com/aaaaaaaaaaa11111111111/slozhno-sosredotochitsya) • [Demo](https://aaaaaaaaaaa11111111111.github.io/slozhno-sosredotochitsya/)  
-- 🔗 [Приложение для сборки бургеров (React + TS + Redux)](https://github.com/aaaaaaaaaaa11111111111/stellar-burgers) • [Demo](https://aaaaaaaaaaa11111111111.github.io/slozhno-sosredotochitsya/](https://aaaaaaaaaaa11111111111.github.io/stellar-burgers/)  
+- 🔗 [Приложение для сборки бургеров (React + TS + Redux)](https://github.com/aaaaaaaaaaa11111111111/stellar-burgers) • [Demo](https://aaaaaaaaaaa11111111111.github.io/stellar-burgers/) 
 
 ---
 
