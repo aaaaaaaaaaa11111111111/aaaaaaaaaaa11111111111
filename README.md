@@ -1,36 +1,27 @@
-<h1 align="center">👋 Привет</h1>
+<h1 align="center"></h1>
 
-Я Frontend-разработчик из России.  
-Люблю создавать удобные интерфейсы и улучшать уже готовые проекты.  
-Постоянно развиваюсь: изучаю новые инструменты фронтенда.  
-Хочу найти команду, с которой смогу создавать продукты, приносящие пользу людям.
+data enthusiast, sql enjoyer
 
 ---
 
 ## 🛠 Languages and Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-  <img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg?raw=true" alt="vite" width="40" height="40"/>
+  - HTML / CSS / JavaScript / TypeScript  
+  - React
+  - SQL
 </p>
 
 
 ---
 
-## 📂 Projects
-- 🔗 [Сервис обмена фотографиями (JS + API)](https://github.com/aaaaaaaaaaa11111111111/mesto-project-ff) • [Demo](https://aaaaaaaaaaa11111111111.github.io/mesto-project-ff/)  
-- 🔗 [Адаптивный сайт с тёмной/светлой темой](https://github.com/aaaaaaaaaaa11111111111/slozhno-sosredotochitsya) • [Demo](https://aaaaaaaaaaa11111111111.github.io/slozhno-sosredotochitsya/)  
-- 🔗 [Приложение для сборки бургеров (React + TS + Redux)](https://github.com/aaaaaaaaaaa11111111111/stellar-burgers)
+## Projects
+ - [Сервис обмена фотографиями (JS + API)](https://github.com/aaaaaaaaaaa11111111111/mesto-project-ff) • [Demo](https://aaaaaaaaaaa11111111111.github.io/mesto-project-ff/)  
+ - [Адаптивный сайт с тёмной/светлой темой](https://github.com/aaaaaaaaaaa11111111111/slozhno-sosredotochitsya) • [Demo](https://aaaaaaaaaaa11111111111.github.io/slozhno-sosredotochitsya/)  
+ - [Приложение для сборки бургеров (React + TS + Redux)](https://github.com/aaaaaaaaaaa11111111111/stellar-burgers)
 
 ---
 
-## 📫 Contacts
+## Contacts
 - Email: **daniilsav2000@mail.ru**
 - Telegram: **https://t.me/qqqqqqqq99999999**
 <!--
