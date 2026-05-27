@@ -21,7 +21,7 @@
 ## Projects
 
 <details>
-  <summary>📌 Photo sharing service (JS + API)</summary>
+  <summary> Photo sharing service (JS + API)</summary>
 
 - GitHub: https://github.com/aaaaaaaaaaa11111111111/mesto-project-ff  
 - Demo: https://aaaaaaaaaaa11111111111.github.io/mesto-project-ff/
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary>📌 Adaptive website (dark/light theme)</summary>
+  <summary> Adaptive website (dark/light theme)</summary>
 
 - GitHub: https://github.com/aaaaaaaaaaa11111111111/slozhno-sosredotochitsya  
 - Demo: https://aaaaaaaaaaa11111111111.github.io/slozhno-sosredotochitsya/
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-  <summary>📌 Burger builder app (React + TS + Redux)</summary>
+  <summary> Burger builder app (React + TS + Redux)</summary>
 
 - GitHub: https://github.com/aaaaaaaaaaa11111111111/stellar-burgers  
 
