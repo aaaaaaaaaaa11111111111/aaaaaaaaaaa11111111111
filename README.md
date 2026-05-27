@@ -1,6 +1,8 @@
 <h1 align="center">SALAM</h1>
 
-data enthusiast, sql enjoyer
+<p align="center">
+  Data enthusiast, sql enjoyer
+</p>
 
 ---
 
