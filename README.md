@@ -1,15 +1,14 @@
-<h1 align="center"></h1>
+<h1 align="center">SALAM</h1>
 
 data enthusiast, sql enjoyer
 
 ---
 
-## 🛠 Languages and Tools
-<p align="left">
-  - HTML / CSS / JavaScript / TypeScript  
-  - React
-  - SQL
-</p>
+## Languages and Tools
+
+- HTML / CSS / JavaScript / TypeScript
+- React 
+- SQL
 
 
 ---
